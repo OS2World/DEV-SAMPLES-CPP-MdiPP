@@ -1,0 +1,1 @@
+void UFKillItself(PGPFWINDOW pGpfWindow);
