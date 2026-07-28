@@ -1,5 +1,5 @@
 # DEV-SAMPLES-CPP-MdiPP
-A C++ PM window sample. In this example the 'Window1' global pointer is being changed to point to a new instance of the ClassWindow1 class.
+A C++ PM window sample for GPF framework snippet. In this example the 'Window1' global pointer is being changed to point to a new instance of the ClassWindow1 class.
 
 
 LICENSE
@@ -9,6 +9,7 @@ LICENSE
 COMPILE TOOLS
 ===============
 * icc
+* GPF framework snippet
   
 AUTHORS
 ===============
